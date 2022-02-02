@@ -1,0 +1,14 @@
+.SlideImg{
+    height: 500px;
+}
+.slideheader{
+    color: #1E90FF;
+}
+.me-auto{
+    font-weight: 600;
+}
+.navlink{
+    text-decoration: none;
+    margin-right: 20px;
+    color: rgb(250, 249, 246);
+}

@@ -1,0 +1,30 @@
+.cardBox{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 10%;
+}
+.teacherCardBox{
+    width: 500px;
+    margin-bottom: 10%;
+}
+.teacherName{
+    font-size: 25px;
+    font-weight: 700;
+}
+.cardBody{
+    background-color: rgb(246, 242, 242);
+}
+#department{
+    font-weight: 700;
+}
+@media(max-width: 992px){
+.cardBox{
+    grid-template-columns: 1fr;
+}
+}
+@media(max-width:668px){
+    .cardBox{
+        grid-template-columns: 1fr;
+        margin-left: 0;
+    }
+}

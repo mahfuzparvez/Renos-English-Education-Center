@@ -1,0 +1,50 @@
+[
+    {
+        "key": "C1",
+        "img": "https://i.postimg.cc/9fF3J8KC/pexels-julia-m-cameron-4145153.jpg",
+        "title": "Spoken English",
+        "text": "Many people feel shy or embarrassed when speaking English. Don't be. Act as if you are the most confident person you know - in fact, be the most confident 'you'. By acting 'as if' you are confident you create or strengthen neural networks in your brain and so the next time you speak you may feel more confident as you are used to this situation.  So, act confident, and over time you will feel confident, and indeed, be confident!"
+    },
+    {
+        "key": "C2",
+        "img": "https://i.postimg.cc/d1pzQq1V/pexels-kampus-production-5940703.jpg",
+        "title": "Problem Solving",
+        "text": "Problems arising in the English classroom are common especially among young learners. They have prevailed in ESL classrooms, Self-learning centers, and many other learning institutions across the globe. Therefore, teachers need not only be equipped with knowledge, skills, and experience in imparting knowledge to their students but also classroom management skills to maintain order during teaching and learning process."
+    },
+    {
+        "key": "C3",
+        "img": "https://i.postimg.cc/RFNkz3vY/pexels-picjumbocom-196649.jpg",
+        "title": "TOEFL",
+        "text": "No matter how great your English may be, it’s still possible to be thrown off by the format of a test. Spend some time on the official TOEFL site to get familiar with the way it works, and to find out any information you need. Know that there are two ways for you to take the test --the internet based test (or iBT), and the paper-based test. The former is much more popular nowadays, and it’s likely the one you’ll be doing. But just in case, here’s how each is set out."
+    },
+    {
+        "key": "C4",
+        "img": "https://i.postimg.cc/K8fwk7zV/pexels-shvets-production-7516347.jpg",
+        "title": "IELTS Speaking",
+        "text": "For both paper-based and computer-delivered IELTS, the face-to-face Speaking test is made up of three parts. By understanding what happens in these three parts of the Speaking test, you will be better prepared."
+    },
+    {
+        "key": "C5",
+        "img": "https://i.postimg.cc/J4b9mCWR/pexels-vanessa-garcia-6325954.jpg",
+        "title": "IELTS Listening",
+        "text": "The goal of IELTS Listening section is to test your listening skills. Don't use practice tests to improve your score: it's not enough! They will help you to become familiar with the test, but won't much improve your listening abilities. It is much more effective to do various listening exercises, listen to general listening materials (radio reports, TV-shows, documental programs etc) and only after that do IELTS Listening practice tests."
+    },
+    {
+        "key": "C6",
+        "img": "https://i.postimg.cc/SxkHx1yC/pexels-zen-chung-5538618.jpg",
+        "title": "IELTS Writing",
+        "text": "Look at IELTS practice tests and choose topics which interest you. Use a variety of practice questions and try writing within both the time and word limits. It is important to have a go and not let nervousness stop you from trying.Look at IELTS practice tests and choose topics which interest you."
+    },
+    {
+        "key": "C7",
+        "img": "https://i.postimg.cc/ryRBntn0/student-class-looking-course.jpg",
+        "title": "IELTS Reading",
+        "text": "The reading skills required (prediction, finding specific information, identifying opinion etc.) are the same for both tests. The styles of question, for example, multiple-choice, sentence completion etc., are also the same for both the Academic and General Training papers. On the Academic paper, there will be three long academic texts that are similar to the type of reading you might expect at university. The readings are taken from academic journals, magazines, books and newspapers."
+    },
+    {
+        "key": "C7",
+        "img": "https://i.postimg.cc/QMMPpBKM/virtual-classroom-study-space.jpg",
+        "title": "SAT",
+        "text": "The SAT is designed to test a student's aptitude and knowledge in three subject areas: reading, writing, and math. Like the ACT, the SAT is used by colleges to evaluate an applicants eligibility for admission. The better a student scores on the SAT the better the chance of getting accepted to a reputable college or university."
+    }
+]

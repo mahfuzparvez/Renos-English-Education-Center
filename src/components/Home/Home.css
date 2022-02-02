@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(233, 229, 221);
+}
+.card-div{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.container{
+    margin-top: 3%;
+    margin-bottom: 2%;
+    margin-left: 15%;
+}
+#distrubIMG{
+ height: 100%;   
+}
+.teacherNameH_P{
+    font-weight: 700;
+}
+.teacherCard{
+    width: 200px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+@media(max-width:992px){
+    .card-div{
+        grid-template-columns: 2fr 1fr;
+        gap: 20px;
+    }
+}
+@media (max-width:688px){
+    .card-div{
+        grid-template-columns: 1fr;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+@media(max-width:668px){
+    .teacherCard{
+        margin-left: 25%;
+    }
+}

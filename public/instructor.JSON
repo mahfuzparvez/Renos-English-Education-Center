@@ -1,0 +1,30 @@
+[
+  {
+    "key": "T1",
+    "img": "https://i.postimg.cc/RZrkfVvr/teacher1-1.png",
+    "name": "Peeters",
+    "department": "Spoken English",
+    "dream": "Realize that the type of English being used varies. Students can expect to be tested with recordings of British, American, New Zealand, and Australian speakers, to name a few. The speech patterns are distinctly different, making it difficult for those who have little real-world exposure to regular English speaking."
+  },
+  {
+    "key": "T2",
+    "img": "https://i.postimg.cc/P5mBMsqC/teacher1-2.png",
+    "name": "Alessandro",
+    "department": "TOEFL",
+    "dream": "Plan, Produce, Proof - these are the keys to the writing section. Students must be made aware of the structural implications that their work has on their overall IELTS score. By planning, the student will lessen the risk of writing any word that pops into their mind and sticking to a structure as set out in the plan. Proof reading is also important, as students will lose marks on silly grammar and spelling errors – one easy way to lose marks."
+  },
+  {
+    "key": "T3",
+    "img": "https://i.postimg.cc/k5szkQK9/teacher2.png",
+    "name": "Jesper",
+    "department": "IELTS",
+    "dream": "After the practice test, you should have a good idea of their weak points. The IELTS test is broken down into four parts: reading, speaking, listening and writing. While you should be teaching all aspects of the test, focus on the weak points of the students and provide them with extra activities. Bring it all the way back to basics for them if need be, and get them writing simple sentences if they make simple errors"
+  },
+  {
+    "key": "T4",
+    "img": "https://i.postimg.cc/25rgccq2/teacher4.png",
+    "name": "Anders",
+    "department": "Problem Solving",
+    "dream": "Well, not strictly cheat codes, but some methods to help the students with the listening. Students can look ahead at the questions during the 1 minute and 30 second gap in the listening exercises. This should enable the students to use their power of prediction. Also with the listening, the students should listen out very carefully to ‘misspoken’ words. An example of this is where the day, date or location is corrected by the speaker. For example, the speaker may say ‘So, we shall meet on Tuesday, oh no.. Wednesday’. Students need to be careful to put the correct information down, as sometimes they are distracted by the first answer and don’t hear the correction."
+  }
+]
