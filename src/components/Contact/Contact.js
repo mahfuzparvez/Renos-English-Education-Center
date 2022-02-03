@@ -1,5 +1,6 @@
 import React from 'react';
 import './contact.css';
+import { BsArrowUpRightCircle } from "react-icons/bs";
 import { Button, Form, FormControl, InputGroup } from 'react-bootstrap';
 import photo from '../../Image/graphic-cartoon-character-contact-us-vector-36725959.jpg';
 
@@ -35,7 +36,7 @@ const Contact = () => {
                         <InputGroup.Text>Your Massage:</InputGroup.Text>
                         <FormControl as="textarea" aria-label="With textarea" />
                     </InputGroup>
-                    <Button id='sendbtn' variant="primary" type="submit">Send</Button>
+                    <Button id='sendbtn' variant="primary" type="submit"><span id='btnfont'>< BsArrowUpRightCircle /></span>Send</Button>
                 </div>
                 {/* image div */}
                 <div>
