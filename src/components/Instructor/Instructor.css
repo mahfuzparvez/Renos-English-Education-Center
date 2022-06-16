@@ -1,30 +1,32 @@
-.cardBox{
+.cardBox {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    margin-left: 10%;
 }
-.teacherCardBox{
-    width: 500px;
-    margin-bottom: 10%;
-}
-.teacherName{
+
+.teacherName {
     font-size: 25px;
     font-weight: 700;
 }
-.cardBody{
-    background-color: rgb(246, 242, 242);
+
+.cardBody {
+    background: linear-gradient(0deg, rgba(205, 208, 208, 1) 0%, rgba(177, 235, 147, 1) 100%, rgba(136, 246, 7, 1) 100%);
 }
-#department{
+
+#department {
     font-weight: 700;
 }
-@media(max-width: 992px){
-.cardBox{
-    grid-template-columns: 1fr;
-}
-}
-@media(max-width:668px){
-    .cardBox{
+
+@media(max-width: 992px) {
+    .cardBox {
         grid-template-columns: 1fr;
-        margin-left: 0;
+    }
+}
+
+@media(max-width:668px) {
+    .cardBox {
+        grid-template-columns: 1fr;
+        margin-left: auto;
+        margin-right: auto;
+        width: 250px;
     }
 }

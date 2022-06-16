@@ -1,14 +1,30 @@
-.SlideImg{
+.SlideImg {
     height: 500px;
 }
-.slideheader{
+
+.slideheader {
     color: #1E90FF;
 }
-.me-auto{
-    font-weight: 600;
+
+.navBar {
+    padding: 20px;
 }
-.navlink{
+
+.headline {
+    margin-right: 55px;
+}
+
+.navlink {
     text-decoration: none;
     margin-right: 20px;
+    font-weight: bold;
     color: rgb(250, 249, 246);
+}
+
+
+@media (max-width: 688px) {
+    .headline {
+        width: auto;
+        margin-right: none;
+    }
 }

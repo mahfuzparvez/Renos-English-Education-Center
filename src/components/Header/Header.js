@@ -11,9 +11,9 @@ const Header = () => {
     return (
         <div>
             {/* navbar */}
-            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="navBar">
                 <Container>
-                    <Navbar.Brand href="/home">Renos English Learning Center</Navbar.Brand>
+                    <Navbar.Brand href="/home" className="headline">Renos English Learning Center</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">

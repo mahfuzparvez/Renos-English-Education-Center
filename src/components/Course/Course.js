@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Button, Card, CardGroup, } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
 import './Course.css';
 
 const Course = () => {
@@ -12,7 +11,7 @@ const Course = () => {
     }, [])
     return (
         <div>
-            <div><h2 className='my-4 text-primary'>WE OFFER THIS COURSE</h2></div>
+            <div><h2 className='mt-3 text-info fw-bold'>WE OFFER THIS COURSE</h2></div>
             <div className='cardDiv'>
                 {
                     course.map(course => (<CardGroup className='fullCardBox'>

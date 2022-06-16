@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Card, CardGroup, Col, Row } from 'react-bootstrap';
+import { Button, Card, CardGroup } from 'react-bootstrap';
 import './Home.css';
 import photo1 from '../../Image/home4.jpg';
 import photo2 from '../../Image/home3.jpg';
@@ -14,11 +14,11 @@ const Home = () => {
         <div>
             {/* home page course div */}
             <div>
-                <h2 className='my-4 text-primary'>Course</h2>
+                <h2 className='my-3 text-info fw-bold'>Course</h2>
                 <small>We provide more course go to the course page for details.</small>
             </div>
             <div className='card-div container'>
-                <Card style={{ width: '23rem' }}>
+                <Card style={{ width: 'auto' }} className="Card">
                     <Card.Img className='img-fluid' variant="top" src={photo1} />
                     <Card.Body>
                         <Card.Title>Spoken English</Card.Title>
@@ -28,7 +28,7 @@ const Home = () => {
                     </Card.Body>
                     <Link to="/course"><Button type="button" className="btn btn-primary my-2">Details</Button></Link>
                 </Card>
-                <Card style={{ width: '23rem' }}>
+                <Card style={{ width: 'auto' }} className="Card">
                     <Card.Img id='distrubIMG' className='img-fluid' variant="top" src={photo2} />
                     <Card.Body>
                         <Card.Title>TOEFL</Card.Title>
@@ -38,7 +38,7 @@ const Home = () => {
                     </Card.Body>
                     <Link to="/course"><Button type="button" className="btn btn-primary my-2">Details</Button></Link>
                 </Card>
-                <Card style={{ width: '23rem' }}>
+                <Card style={{ width: 'auto' }} className="Card">
                     <Card.Img className='img-fluid' variant="top" src={photo3} />
                     <Card.Body>
                         <Card.Title>IELTS</Card.Title>
@@ -48,7 +48,7 @@ const Home = () => {
                     </Card.Body>
                     <Link to="/course"><Button type="button" className="btn btn-primary my-2">Details</Button></Link>
                 </Card>
-                <Card style={{ width: '23rem' }}>
+                <Card style={{ width: 'auto' }} className="Card">
                     <Card.Img className='img-fluid' variant="top" src={photo4} />
                     <Card.Body>
                         <Card.Title>SAT</Card.Title>
@@ -62,7 +62,7 @@ const Home = () => {
             {/* home page teacher div */}
             <div>
                 <div>
-                    <h2>Instructor</h2>
+                    <h2 className='my-2 text-info fw-bold'>Instructor</h2>
                     <small>Visit the instructor page for details about trainers</small>
                 </div>
                 <div className='homePageTeacherDiv'>

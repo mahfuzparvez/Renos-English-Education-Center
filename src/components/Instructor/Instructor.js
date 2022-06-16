@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Card, CardGroup } from 'react-bootstrap';
 import './Instructor.css';
-import photo from '../../Image/teacher1 (1).png'
 
 const Instructor = () => {
     const [instructor, setInstructor] = useState([])
@@ -12,10 +11,10 @@ const Instructor = () => {
     }, [])
     return (
         <div>
-            <h1 className='my-4 text-primary'>Let's get acquainted with the trainer</h1>
+            <h1 className='my-2 text-info fw-bold'>Let's get acquainted with the trainer</h1>
             <div className='cardBox'>
                 {
-                    instructor.map(instructor => (<CardGroup className='teacherCardBox'>
+                    instructor.map(instructor => (<CardGroup>
                         <Card className='teacherCard'>
                             <Card.Img variant="top" src={instructor.img} />
                             <Card.Body className='cardBody'>
